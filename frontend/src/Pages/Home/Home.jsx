@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            K Abhinav
+            ABHINAV'S APP
           </Title>
 
           <Text
