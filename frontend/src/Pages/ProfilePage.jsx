@@ -35,7 +35,7 @@ export default function ProfilePage() {
               borderRadius: "20px",
             //   padding: "30px",
                 paddingTop: "35px",
-                paddingBottom: "20px",
+                paddingBottom: "25px",
                 paddingLeft:"20px",
                 paddingRight:"20px",
                 
