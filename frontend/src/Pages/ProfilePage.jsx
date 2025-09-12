@@ -81,7 +81,7 @@ export default function ProfilePage() {
         <Text
            fw={700}
         >
-          CreatedAt : {user?.createdAt}
+          Created : {user?.createdAt}
         </Text>    
       </Center>     
       <br/>   
