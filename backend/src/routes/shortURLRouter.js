@@ -1,6 +1,6 @@
 import { Router } from "express";
-import { createShortUrl, getLongUrl} from "./controllers/shortURLController.js";   
 import { isLoggedIn } from "../middlewares/authMiddleware.js";
+import { createShortUrl, getLongUrl } from "../controllers/shortUrlController.js";
 
 const shortURLRouter = Router();
 
